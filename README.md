@@ -17,9 +17,9 @@
 
 ## 推特三件套（有需要可自行安装）
 
-- `easy_twitter_publisher` 推特发帖,回帖,转载 https://pypi.org/project/easy_twitter_publisher
+- `easy_twitter_publisher` 推特发帖,回帖,转载 https://pypi.org/project/easy-twitter-publisher
 - `easy_twitter_crawler` 推特采集 https://pypi.org/project/easy-twitter-crawler
-- `easy_twitter_interactors` 推特互动（点赞,刷阅读量等） https://pypi.org/project/easy_twitter_interactors
+- `easy_twitter_interactors` 推特互动（点赞,刷阅读量等） https://pypi.org/project/easy-twitter-interactors
 
 ## 安装
 
