@@ -1,0 +1,87 @@
+{
+  "__typename": "User",
+  "id": "VXNlcjoxMDg1NDMzNTg=",
+  "rest_id": "108543358",
+  "affiliates_highlighted_label": {},
+  "is_blue_verified": true,
+  "legacy": {
+    "protected": false,
+    "created_at": "Tue Jan 26 07:42:41 +0000 2010",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "The official Twitter of BMKG Indonesia - Twitter resmi BMKG - Informasi Cuaca, Iklim, dan Gempabumi di Indonesia - Badan Meteorologi, Klimatologi, dan Geofisika",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bmkg.go.id",
+            "expanded_url": "http://bmkg.go.id",
+            "url": "https://t.co/kP7yGvJLTG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fast_followers_count": 0,
+    "favourites_count": 646,
+    "followers_count": 8210431,
+    "friends_count": 30,
+    "has_custom_timelines": true,
+    "is_translator": false,
+    "listed_count": 3677,
+    "location": "Indonesia",
+    "media_count": 60220,
+    "name": "BMKG",
+    "normal_followers_count": 8210431,
+    "pinned_tweet_ids_str": [],
+    "possibly_sensitive": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/108543358/1679282549",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1076479887056154627/u0KZkg3a_normal.jpg",
+    "profile_interstitial_type": "",
+    "screen_name": "infoBMKG",
+    "statuses_count": 183223,
+    "translator_type": "none",
+    "url": "https://t.co/kP7yGvJLTG",
+    "verified": false,
+    "verified_type": "Government",
+    "withheld_in_countries": []
+  },
+  "has_nft_avatar": false,
+  "super_follow_eligible": false,
+  "super_followed_by": false,
+  "super_following": false,
+  "business_account": {},
+  "legacy_extended_profile": {
+    "birthdate": {
+      "day": 21,
+      "month": 7,
+      "year": 1947,
+      "visibility": "Public",
+      "year_visibility": "Public"
+    }
+  },
+  "is_profile_translatable": true,
+  "verification_info": {
+    "reason": {
+      "description": {
+        "text": "This account is verified because it is a government or multilateral organization account.  Learn more",
+        "entities": [
+          {
+            "from_index": 91,
+            "to_index": 101,
+            "ref": {
+              "url": "https://twitter.com/i/twitter_blue_sign_up",
+              "url_type": "ExternalUrl"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,435 @@
+[
+  {
+    "name": "🇭🇰 香港S01",
+    "server": "g06.hk01-ae5.entry.hsrtd.club",
+    "port": 19276,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 日本S01 | x0.8",
+    "server": "g06.jp01-ae5.entry.hsrtd.club",
+    "port": 477,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇭🇰 香港S02 | IEPL",
+    "server": "g06.hk02-ae5.entry.hsrtd.club",
+    "port": 14564,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 日本S02 | x0.8",
+    "server": "g06.jp02-ae5.entry.hsrtd.club",
+    "port": 487,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇭🇰 香港S03 | IEPL",
+    "server": "g06.hk03-ae5.entry.hsrtd.club",
+    "port": 764,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 日本S03 | x0.8",
+    "server": "g06.jp03-ae5.entry.hsrtd.club",
+    "port": 492,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇭🇰 香港S04 | IEPL",
+    "server": "g06.hk04-ae5.entry.hsrtd.club",
+    "port": 808,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 日本S04 | x0.8",
+    "server": "g06.jp04-ae5.entry.hsrtd.club",
+    "port": 497,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇭🇰 香港S05 | IEPL",
+    "server": "g06.hk05-ae5.entry.hsrtd.club",
+    "port": 1816,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 日本S05 | 下载专用 | x0.01",
+    "server": "g06.jp05-vm5.entry.rtysjur.quest",
+    "port": 64659,
+    "type": "vmess",
+    "uuid": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "alterId": 1,
+    "cipher": "auto",
+    "tls": false,
+    "skip-cert-verify": false,
+    "udp": true
+  },
+  {
+    "name": "🇭🇰 香港S06 | x0.8",
+    "server": "g06.hk06-ae5.entry.hsrtd.club",
+    "port": 1417,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 日本S06 | 下载专用 | x0.01",
+    "server": "g06.jp06-vm5.entry.rtysjur.quest",
+    "port": 667,
+    "type": "vmess",
+    "uuid": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "alterId": 1,
+    "cipher": "auto",
+    "tls": false,
+    "skip-cert-verify": false,
+    "udp": true
+  },
+  {
+    "name": "🇭🇰 香港S07 | x0.8",
+    "server": "g06.hk07-ae5.entry.hsrtd.club",
+    "port": 1424,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 日本S07 | x0.8",
+    "server": "g06.jp07-ae5.entry.hsrtd.club",
+    "port": 14009,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇭🇰 香港S08 | x0.8",
+    "server": "g06.hk08-ae5.entry.hsrtd.club",
+    "port": 18647,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 日本S08 | x0.8",
+    "server": "g06.jp08-ae5.entry.hsrtd.club",
+    "port": 12547,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇭🇰 香港S09 | IEPL",
+    "server": "g06.hk09-vm5.entry.hsrtd.club",
+    "port": 15269,
+    "type": "vmess",
+    "uuid": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "alterId": 1,
+    "cipher": "auto",
+    "tls": false,
+    "skip-cert-verify": false,
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 日本S09 | x0.8",
+    "server": "g06.jp09-ae5.entry.hsrtd.club",
+    "port": 11162,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇭🇰 香港S10 | IEPL",
+    "server": "g06.hk10-vm5.entry.hsrtd.club",
+    "port": 13487,
+    "type": "vmess",
+    "uuid": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "alterId": 1,
+    "cipher": "auto",
+    "tls": false,
+    "skip-cert-verify": false,
+    "network": "ws",
+    "ws-opts": {
+      "path": "/",
+      "headers": {
+        "Host": "bgp-01-10.entry-0.chinasnow.net"
+      }
+    },
+    "ws-path": "/",
+    "ws-headers": {
+      "Host": "bgp-01-10.entry-0.chinasnow.net"
+    },
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 日本S10 | x0.8",
+    "server": "g06.jp10-ae5.entry.hsrtd.club",
+    "port": 16528,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇭🇰 香港S11 | IEPL",
+    "server": "g06.hk11-vm5.entry.hsrtd.club",
+    "port": 579,
+    "type": "vmess",
+    "uuid": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "alterId": 1,
+    "cipher": "auto",
+    "tls": false,
+    "skip-cert-verify": false,
+    "network": "ws",
+    "ws-opts": {
+      "path": "/tutorial/iphone13.m3u8",
+      "headers": {
+        "Host": "bgp-01-11.entry-0.chinasnow.net"
+      }
+    },
+    "ws-path": "/tutorial/iphone13.m3u8",
+    "ws-headers": {
+      "Host": "bgp-01-11.entry-0.chinasnow.net"
+    },
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 日本S11 | x0.8",
+    "server": "g06.jp11-ae5.entry.hsrtd.club",
+    "port": 17745,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇸🇬 新加坡S01",
+    "server": "g06.sg01-ae5.entry.hsrtd.club",
+    "port": 20004,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇨🇳 台湾S01 | IEPL | x2",
+    "server": "g06.tw01-ae5.entry.hsrtd.club",
+    "port": 20009,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇺🇲 美国S01",
+    "server": "g06.us01-ae5.entry.hsrtd.club",
+    "port": 20014,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇺🇲 美国S02",
+    "server": "g06.us02-ae5.entry.hsrtd.club",
+    "port": 20019,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇬🇧 英国S01",
+    "server": "g06.gb01-ae5.entry.hsrtd.club",
+    "port": 20024,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇦🇷 阿根廷S01",
+    "server": "g06.ar01-ae5.entry.hsrtd.club",
+    "port": 20029,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇷🇺 俄罗斯S01",
+    "server": "g06.ru01-ae5.entry.hsrtd.club",
+    "port": 20034,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇹🇷 土耳其S01",
+    "server": "g06.tr01-ae5.entry.hsrtd.club",
+    "port": 20039,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇰🇷 韩国S01",
+    "server": "g06.kr01-ae5.entry.hsrtd.club",
+    "port": 20044,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇮🇳 印度S01",
+    "server": "g06.in01-ae5.entry.hsrtd.club",
+    "port": 20049,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇩🇪 德国S01",
+    "server": "g06.de01-ae5.entry.hsrtd.club",
+    "port": 20054,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇨🇦 加拿大S01",
+    "server": "g06.ca01-ae5.entry.hsrtd.club",
+    "port": 20059,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇦🇺 澳大利亚S01",
+    "server": "g06.au01-ae5.entry.hsrtd.club",
+    "port": 20064,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇫🇷 法国S01",
+    "server": "g06.fr01-ae5.entry.hsrtd.club",
+    "port": 20069,
+    "type": "ss",
+    "cipher": "aes-256-gcm",
+    "password": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 免费-日本1Ver.4",
+    "server": "jp01-alt-vm0.entry.srthdw.art",
+    "port": 21586,
+    "type": "vmess",
+    "uuid": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "alterId": 1,
+    "cipher": "auto",
+    "tls": true,
+    "skip-cert-verify": false,
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 免费-日本2-Ver.5",
+    "server": "jp02-vm0.entry.srthdw.art",
+    "port": 11778,
+    "type": "vmess",
+    "uuid": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "alterId": 1,
+    "cipher": "auto",
+    "tls": false,
+    "skip-cert-verify": false,
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 免费-日本3Ver.4",
+    "server": "jp03-alt-vm0.entry.srthdw.art",
+    "port": 21586,
+    "type": "vmess",
+    "uuid": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "alterId": 1,
+    "cipher": "auto",
+    "tls": true,
+    "skip-cert-verify": false,
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 免费-日本4-Ver.4",
+    "server": "jp04-vm0.entry.srthdw.art",
+    "port": 449,
+    "type": "vmess",
+    "uuid": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "alterId": 0,
+    "cipher": "auto",
+    "tls": false,
+    "skip-cert-verify": false,
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 免费-日本5-Ver.6",
+    "server": "jp05-vm0.entry.srthdw.art",
+    "port": 46487,
+    "type": "vmess",
+    "uuid": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "alterId": 1,
+    "cipher": "auto",
+    "tls": false,
+    "skip-cert-verify": false,
+    "udp": true
+  },
+  {
+    "name": "🇯🇵 免费-日本6-Ver.5",
+    "server": "jp06-vm0.entry.jpojpoh.art",
+    "port": 28788,
+    "type": "vmess",
+    "uuid": "7e916d25-ba54-39d7-a053-1ee7bb1195c4",
+    "alterId": 1,
+    "cipher": "auto",
+    "tls": true,
+    "skip-cert-verify": false,
+    "udp": true
+  }
+]

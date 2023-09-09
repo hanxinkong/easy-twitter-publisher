@@ -1,0 +1,527 @@
+{
+  "data": {
+    "create_tweet": {
+      "tweet_results": {
+        "result": {
+          "rest_id": "1681918557796601858",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjozMjM5NzA2MzYx",
+                "rest_id": "3239706361",
+                "affiliates_highlighted_label": {},
+                "has_graduated_access": false,
+                "is_blue_verified": false,
+                "profile_image_shape": "Circle",
+                "legacy": {
+                  "can_dm": true,
+                  "can_media_tag": true,
+                  "created_at": "Mon Jun 08 08:47:00 +0000 2015",
+                  "default_profile": true,
+                  "default_profile_image": true,
+                  "description": "",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 0,
+                  "followers_count": 128,
+                  "friends_count": 0,
+                  "has_custom_timelines": false,
+                  "is_translator": false,
+                  "listed_count": 0,
+                  "location": "",
+                  "media_count": 14,
+                  "name": "犬",
+                  "needs_phone_verification": false,
+                  "normal_followers_count": 128,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+                  "profile_interstitial_type": "",
+                  "screen_name": "ndmpajpa",
+                  "statuses_count": 17,
+                  "translator_type": "none",
+                  "verified": false,
+                  "want_retweets": false,
+                  "withheld_in_countries": []
+                }
+              }
+            }
+          },
+          "card": {
+            "rest_id": "https://t.co/lwkXPlAyZS",
+            "legacy": {
+              "binding_values": [
+                {
+                  "key": "photo_image_full_size_large",
+                  "value": {
+                    "image_value": {
+                      "height": 419,
+                      "width": 800,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=jpg&name=800x419"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image",
+                  "value": {
+                    "image_value": {
+                      "height": 150,
+                      "width": 225,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=jpg&name=280x150"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "domain",
+                  "value": {
+                    "string_value": "uk.trip.com",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_large",
+                  "value": {
+                    "image_value": {
+                      "height": 320,
+                      "width": 480,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=jpg&name=800x320_1"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_small",
+                  "value": {
+                    "image_value": {
+                      "height": 202,
+                      "width": 386,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=jpg&name=386x202"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_original",
+                  "value": {
+                    "image_value": {
+                      "height": 800,
+                      "width": 1200,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=jpg&name=orig"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_small",
+                  "value": {
+                    "image_value": {
+                      "height": 202,
+                      "width": 386,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=jpg&name=386x202"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_large",
+                  "value": {
+                    "image_value": {
+                      "height": 419,
+                      "width": 800,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=jpg&name=800x419"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_small",
+                  "value": {
+                    "image_value": {
+                      "height": 67,
+                      "width": 100,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=jpg&name=100x100"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_x_large",
+                  "value": {
+                    "image_value": {
+                      "height": 800,
+                      "width": 1200,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=png&name=2048x2048_2_exp"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_original",
+                  "value": {
+                    "image_value": {
+                      "height": 800,
+                      "width": 1200,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=jpg&name=orig"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "vanity_url",
+                  "value": {
+                    "scribe_key": "vanity_url",
+                    "string_value": "uk.trip.com",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size",
+                  "value": {
+                    "image_value": {
+                      "height": 314,
+                      "width": 600,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=jpg&name=600x314"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "thumbnail_image_color",
+                  "value": {
+                    "image_color_value": {
+                      "palette": [
+                        {
+                          "rgb": {
+                            "blue": 233,
+                            "green": 210,
+                            "red": 241
+                          },
+                          "percentage": 77.21
+                        },
+                        {
+                          "rgb": {
+                            "blue": 186,
+                            "green": 99,
+                            "red": 49
+                          },
+                          "percentage": 12.1
+                        },
+                        {
+                          "rgb": {
+                            "blue": 122,
+                            "green": 79,
+                            "red": 61
+                          },
+                          "percentage": 3.11
+                        },
+                        {
+                          "rgb": {
+                            "blue": 135,
+                            "green": 76,
+                            "red": 249
+                          },
+                          "percentage": 3.07
+                        },
+                        {
+                          "rgb": {
+                            "blue": 198,
+                            "green": 164,
+                            "red": 243
+                          },
+                          "percentage": 1.33
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "title",
+                  "value": {
+                    "string_value": "Train Travel Deal",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_color",
+                  "value": {
+                    "image_color_value": {
+                      "palette": [
+                        {
+                          "rgb": {
+                            "blue": 233,
+                            "green": 210,
+                            "red": 241
+                          },
+                          "percentage": 77.21
+                        },
+                        {
+                          "rgb": {
+                            "blue": 186,
+                            "green": 99,
+                            "red": 49
+                          },
+                          "percentage": 12.1
+                        },
+                        {
+                          "rgb": {
+                            "blue": 122,
+                            "green": 79,
+                            "red": 61
+                          },
+                          "percentage": 3.11
+                        },
+                        {
+                          "rgb": {
+                            "blue": 135,
+                            "green": 76,
+                            "red": 249
+                          },
+                          "percentage": 3.07
+                        },
+                        {
+                          "rgb": {
+                            "blue": 198,
+                            "green": 164,
+                            "red": 243
+                          },
+                          "percentage": 1.33
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_x_large",
+                  "value": {
+                    "image_value": {
+                      "height": 800,
+                      "width": 1200,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=png&name=2048x2048_2_exp"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "summary_photo_image",
+                  "value": {
+                    "image_value": {
+                      "height": 314,
+                      "width": 600,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=jpg&name=600x314"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_color",
+                  "value": {
+                    "image_color_value": {
+                      "palette": [
+                        {
+                          "rgb": {
+                            "blue": 233,
+                            "green": 210,
+                            "red": 241
+                          },
+                          "percentage": 77.21
+                        },
+                        {
+                          "rgb": {
+                            "blue": 186,
+                            "green": 99,
+                            "red": 49
+                          },
+                          "percentage": 12.1
+                        },
+                        {
+                          "rgb": {
+                            "blue": 122,
+                            "green": 79,
+                            "red": 61
+                          },
+                          "percentage": 3.11
+                        },
+                        {
+                          "rgb": {
+                            "blue": 135,
+                            "green": 76,
+                            "red": 249
+                          },
+                          "percentage": 3.07
+                        },
+                        {
+                          "rgb": {
+                            "blue": 198,
+                            "green": 164,
+                            "red": 243
+                          },
+                          "percentage": 1.33
+                        }
+                      ]
+                    },
+                    "type": "IMAGE_COLOR"
+                  }
+                },
+                {
+                  "key": "photo_image_full_size_x_large",
+                  "value": {
+                    "image_value": {
+                      "height": 800,
+                      "width": 1200,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=png&name=2048x2048_2_exp"
+                    },
+                    "type": "IMAGE"
+                  }
+                },
+                {
+                  "key": "card_url",
+                  "value": {
+                    "scribe_key": "card_url",
+                    "string_value": "https://t.co/lwkXPlAyZS",
+                    "type": "STRING"
+                  }
+                },
+                {
+                  "key": "summary_photo_image_original",
+                  "value": {
+                    "image_value": {
+                      "height": 800,
+                      "width": 1200,
+                      "url": "https://pbs.twimg.com/card_img/1680853555870306304/dPByaa8p?format=jpg&name=orig"
+                    },
+                    "type": "IMAGE"
+                  }
+                }
+              ],
+              "card_platform": {
+                "platform": {
+                  "audience": {
+                    "name": "production"
+                  },
+                  "device": {
+                    "name": "Swift",
+                    "version": "12"
+                  }
+                }
+              },
+              "name": "summary_large_image",
+              "url": "https://t.co/lwkXPlAyZS",
+              "user_refs_results": []
+            }
+          },
+          "unified_card": {
+            "card_fetch_state": "NoCard"
+          },
+          "edit_control": {
+            "edit_tweet_ids": [
+              "1681918557796601858"
+            ],
+            "editable_until_msecs": "1689839207000",
+            "is_edit_eligible": false,
+            "edits_remaining": "5"
+          },
+          "edit_perspective": {
+            "favorited": false,
+            "retweeted": false
+          },
+          "is_translatable": true,
+          "views": {
+            "state": "Enabled"
+          },
+          "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+          "legacy": {
+            "bookmark_count": 0,
+            "bookmarked": false,
+            "created_at": "Thu Jul 20 06:46:47 +0000 2023",
+            "conversation_id_str": "1645253358792605696",
+            "display_text_range": [
+              14,
+              267
+            ],
+            "entities": {
+              "user_mentions": [
+                {
+                  "id_str": "1621390391894487040",
+                  "name": "社員のマインドセルフケアサービス「myself」",
+                  "screen_name": "myself_seiwa",
+                  "indices": [
+                    0,
+                    13
+                  ]
+                }
+              ],
+              "urls": [
+                {
+                  "display_url": "uk.trip.com/trains/activit…",
+                  "expanded_url": "https://uk.trip.com/trains/activity/2023/train-hotel-deal?promo_referer=4288_4887_1&from_native_page=1",
+                  "url": "https://t.co/lwkXPlAyZS",
+                  "indices": [
+                    244,
+                    267
+                  ]
+                }
+              ],
+              "hashtags": [
+                {
+                  "indices": [
+                    207,
+                    222
+                  ],
+                  "text": "TheMandalorian"
+                },
+                {
+                  "indices": [
+                    223,
+                    230
+                  ],
+                  "text": "MARVEL"
+                },
+                {
+                  "indices": [
+                    231,
+                    234
+                  ],
+                  "text": "uk"
+                },
+                {
+                  "indices": [
+                    235,
+                    242
+                  ],
+                  "text": "Coupon"
+                }
+              ],
+              "symbols": []
+            },
+            "favorite_count": 0,
+            "favorited": false,
+            "full_text": "@myself_seiwa This deal is too good to be true!\nBy booking my train tickets and hotel together, I received an instant £5 discount on my train tickets.\n👇Click the link below to check out this amazing offer.\n\n#TheMandalorian #MARVEL #uk #Coupon\n\nhttps://t.co/lwkXPlAyZS",
+            "in_reply_to_screen_name": "myself_seiwa",
+            "in_reply_to_status_id_str": "1645253358792605696",
+            "in_reply_to_user_id_str": "1621390391894487040",
+            "is_quote_status": false,
+            "lang": "en",
+            "possibly_sensitive": false,
+            "possibly_sensitive_editable": true,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 0,
+            "retweeted": false,
+            "user_id_str": "3239706361",
+            "id_str": "1681918557796601858"
+          },
+          "unmention_info": {}
+        }
+      }
+    }
+  }
+}

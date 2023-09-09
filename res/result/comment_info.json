@@ -1,0 +1,41 @@
+{
+  "comment_id": "1671211436474011648",
+  "pub_time": "Tue Jun 20 17:40:30 +0000 2023",
+  "author_info": {
+    "user_id": "1481671722009083917",
+    "user_name": "HellHeavenHere",
+    "user_url": "https://twitter.com/HellHeavenHere"
+  },
+  "source_url": "https://twitter.com/HellHeavenHere/status/1671211436474011648",
+  "pictures": [],
+  "video_url": [],
+  "up_count": 0,
+  "cmt_count": 0,
+  "read_count": 20,
+  "rtt_count": 0,
+  "share_count": 0,
+  "collect_count": 0,
+  "quote_count": 0,
+  "is_retweet": false,
+  "retweet_info": {
+    "comment_id": "",
+    "retweet_author": {
+      "user_id": "",
+      "user_name": ""
+    },
+    "url": ""
+  },
+  "is_quote": false,
+  "quote_info": {
+    "comment_id": "",
+    "quote_author": {
+      "user_id": "",
+      "user_name": ""
+    },
+    "url": ""
+  },
+  "embed_url": [],
+  "language": "en",
+  "content": "@ani_digital @ANI Awesome Picture",
+  "article_id": "1671055903175372802"
+}

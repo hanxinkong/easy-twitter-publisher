@@ -1,0 +1,121 @@
+{
+  "user_id": "1677825848",
+  "user_name": "PVMBG_",
+  "display_name": "PVMBG",
+  "user_url": "https://twitter.com/PVMBG_",
+  "profile_picture": "https://pbs.twimg.com/profile_images/1281184674820194305/ZMsOObJ4_normal.jpg",
+  "header_photo": "https://pbs.twimg.com/profile_banners/1677825848/1620638027",
+  "bio": "Akun Resmi Pusat Vulkanologi dan Mitigasi Bencana Geologi - Kementerian ESDM RI #vulkanologi #geologi #mitigasi #bencana",
+  "location": "Bandung, Indonesia",
+  "website_link": {
+    "display_url": "linktr.ee/PVMBG",
+    "expanded_url": "https://linktr.ee/PVMBG"
+  },
+  "birthday": {
+    "birthday": "",
+    "visibility": ""
+  },
+  "followers_count": 43440,
+  "following_count": 127,
+  "tweets_count": 5502,
+  "likes_count": 143,
+  "media_count": 3034,
+  "listed_count": 137,
+  "join_date": "Sat Aug 17 09:44:20 +0000 2013",
+  "auth": {
+    "is_verified": false,
+    "verified_type": "",
+    "verification_info": ""
+  },
+  "professional": {
+    "professional_category": "Education",
+    "professional_type": "Business"
+  },
+  "protected": false,
+  "article": [
+    {
+      "article_id": "1492446938398326784",
+      "pub_time": "Sat Feb 12 10:34:13 +0000 2022",
+      "author_info": {
+        "user_id": "1677825848",
+        "user_name": "PVMBG_",
+        "user_url": "https://twitter.com/PVMBG_"
+      },
+      "source_url": "https://twitter.com/PVMBG_/status/1492446938398326784",
+      "pictures": [
+        "https://pbs.twimg.com/media/FLY8lISaIAAHtYT.jpg"
+      ],
+      "video_url": [],
+      "up_count": 4124,
+      "cmt_count": 299,
+      "read_count": 0,
+      "rtt_count": 1165,
+      "share_count": 0,
+      "collect_count": 0,
+      "quote_count": 286,
+      "is_retweet": false,
+      "retweet_info": {
+        "article_id": "",
+        "retweet_author": {
+          "user_id": "",
+          "user_name": ""
+        },
+        "url": ""
+      },
+      "is_quote": false,
+      "quote_info": {
+        "article_id": "",
+        "quote_author": {
+          "user_id": "",
+          "user_name": ""
+        },
+        "url": ""
+      },
+      "embed_url": [],
+      "language": "in",
+      "content": "Telah terjadi perubahan aktifitas di G. Tangkuban Parahu https://t.co/bBBce9X5cu"
+    },
+    {
+      "article_id": "1599607889823686656",
+      "pub_time": "Mon Dec 05 03:33:34 +0000 2022",
+      "author_info": {
+        "user_id": "1677825848",
+        "user_name": "PVMBG_",
+        "user_url": "https://twitter.com/PVMBG_"
+      },
+      "source_url": "https://twitter.com/PVMBG_/status/1599607889823686656",
+      "pictures": [
+        "https://pbs.twimg.com/media/FjLyesUaEAIvT57.jpg"
+      ],
+      "video_url": [],
+      "up_count": 1045,
+      "cmt_count": 16,
+      "read_count": 0,
+      "rtt_count": 413,
+      "share_count": 0,
+      "collect_count": 0,
+      "quote_count": 11,
+      "is_retweet": false,
+      "retweet_info": {
+        "article_id": "",
+        "retweet_author": {
+          "user_id": "",
+          "user_name": ""
+        },
+        "url": ""
+      },
+      "is_quote": false,
+      "quote_info": {
+        "article_id": "",
+        "quote_author": {
+          "user_id": "",
+          "user_name": ""
+        },
+        "url": ""
+      },
+      "embed_url": [],
+      "language": "in",
+      "content": "[6 GUNUNG API BAWAH LAUT INDONESIA]\n\nHai..\nKawan Mitigasi penasaran dengan gunung api bawah laut Indonesia ga? sini Mican kasih tau... https://t.co/X2fa4GqHoh"
+    }
+  ]
+}
